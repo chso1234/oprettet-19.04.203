@@ -14,7 +14,3 @@ print("Subtraksjon:", subtraksjon)
 print("Multiplikasjon:", multiplikasjon)
 print("Divisjon:", divisjon)
 
-Addisjon: 20
-Subtraksjon: 0
-Multiplikasjon: 100
-Divisjon: 1.0
